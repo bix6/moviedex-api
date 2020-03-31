@@ -1,6 +1,8 @@
 # Moviedex API
 
 ## Express Practice
+- Fetch a list of movies
+- Movies can be filtered by genre, country or avg_vote if desired
 
 ### Sample Call
 - Endpoint: `GET /movies`
